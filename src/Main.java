@@ -36,6 +36,7 @@ public class Main {
                 System.out.print(", ");
             }
         }
+        System.out.println();
         //Задача 3
         System.out.println("Задача 3");
         int[] arr4 = new int[]{1, 2, 3};
@@ -62,6 +63,7 @@ public class Main {
                 System.out.print(", ");
             }
         }
+        System.out.println();
         // Задача 4
         System.out.println("Задача 4");
         int[] arr = {1, 2, 3, 4, 5, 6};
